@@ -1,0 +1,48 @@
+2024-10-14 10:35:57,708 - INFO - Training gestart door gebruiker: thimo op systeem: Windows 10
+2024-10-14 10:35:59,274 - INFO - GPUs gedetecteerd: 1
+2024-10-14 10:35:59,274 - INFO - Apparaat: PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')
+2024-10-14 10:35:59,274 - INFO - GPU Details: {'device_name': 'NVIDIA GeForce RTX 4060 Laptop GPU', 'compute_capability': (8, 9)}
+2024-10-14 10:35:59,274 - INFO - Laden van annotaties en afbeeldingen gestart.
+2024-10-14 10:35:59,421 - INFO - Starten met het verwerken van annotaties...
+2024-10-14 10:36:00,698 - INFO - Verwerken van annotaties voltooid.
+2024-10-14 10:36:00,764 - INFO - Visualiseren van 5 willekeurige voorbeelden.
+2024-10-14 10:36:06,381 - INFO - Visualisatie voltooid.
+2024-10-14 10:36:06,381 - INFO - Starten met K-Fold Cross-Validation met 5 folds.
+2024-10-14 10:36:06,383 - INFO - Start Fold 1/5
+2024-10-14 10:36:06,727 - INFO - Bouwen van aangepast segmentatiemodel gestart.
+2024-10-14 10:36:07,554 - INFO - Model succesvol gebouwd.
+2024-10-14 10:36:15,799 - INFO - Early Stopping niet geactiveerd in Fold 1.
+2024-10-14 10:36:15,799 - INFO - Fold 1 - Validatieverlies: 0.15578308701515198
+2024-10-14 10:36:15,799 - INFO - Nieuw beste model geselecteerd in Fold 1 met validatieverlies 0.15578308701515198
+2024-10-14 10:36:15,990 - INFO - Trainingsgeschiedenis voor Fold 1 opgeslagen.
+2024-10-14 10:36:16,046 - INFO - Model voor Fold 1 opgeslagen als 'model_fold_1.h5'.
+2024-10-14 10:36:16,052 - INFO - Start Fold 2/5
+2024-10-14 10:36:16,411 - INFO - Bouwen van aangepast segmentatiemodel gestart.
+2024-10-14 10:36:16,502 - INFO - Model succesvol gebouwd.
+2024-10-14 10:36:22,084 - INFO - Early Stopping niet geactiveerd in Fold 2.
+2024-10-14 10:36:22,084 - INFO - Fold 2 - Validatieverlies: 0.15578363835811615
+2024-10-14 10:36:22,286 - INFO - Trainingsgeschiedenis voor Fold 2 opgeslagen.
+2024-10-14 10:36:22,327 - INFO - Model voor Fold 2 opgeslagen als 'model_fold_2.h5'.
+2024-10-14 10:36:22,333 - INFO - Start Fold 3/5
+2024-10-14 10:36:22,696 - INFO - Bouwen van aangepast segmentatiemodel gestart.
+2024-10-14 10:36:22,787 - INFO - Model succesvol gebouwd.
+2024-10-14 10:36:28,216 - INFO - Early Stopping niet geactiveerd in Fold 3.
+2024-10-14 10:36:28,216 - INFO - Fold 3 - Validatieverlies: 0.2008361965417862
+2024-10-14 10:36:28,432 - INFO - Trainingsgeschiedenis voor Fold 3 opgeslagen.
+2024-10-14 10:36:28,471 - INFO - Model voor Fold 3 opgeslagen als 'model_fold_3.h5'.
+2024-10-14 10:36:28,477 - INFO - Start Fold 4/5
+2024-10-14 10:36:28,837 - INFO - Bouwen van aangepast segmentatiemodel gestart.
+2024-10-14 10:36:28,928 - INFO - Model succesvol gebouwd.
+2024-10-14 10:36:34,527 - INFO - Early Stopping niet geactiveerd in Fold 4.
+2024-10-14 10:36:34,527 - INFO - Fold 4 - Validatieverlies: 0.2544112503528595
+2024-10-14 10:36:34,724 - INFO - Trainingsgeschiedenis voor Fold 4 opgeslagen.
+2024-10-14 10:36:34,766 - INFO - Model voor Fold 4 opgeslagen als 'model_fold_4.h5'.
+2024-10-14 10:36:34,771 - INFO - Start Fold 5/5
+2024-10-14 10:36:35,136 - INFO - Bouwen van aangepast segmentatiemodel gestart.
+2024-10-14 10:36:35,227 - INFO - Model succesvol gebouwd.
+2024-10-14 10:36:40,738 - INFO - Early Stopping niet geactiveerd in Fold 5.
+2024-10-14 10:36:40,738 - INFO - Fold 5 - Validatieverlies: 0.17414678633213043
+2024-10-14 10:36:40,933 - INFO - Trainingsgeschiedenis voor Fold 5 opgeslagen.
+2024-10-14 10:36:40,971 - INFO - Model voor Fold 5 opgeslagen als 'model_fold_5.h5'.
+2024-10-14 10:36:40,976 - INFO - Beste model geselecteerd met validatieverlies: 0.15578308701515198
+2024-10-14 10:36:41,078 - INFO - Training voltooid. Het beste model is geselecteerd en opgeslagen.

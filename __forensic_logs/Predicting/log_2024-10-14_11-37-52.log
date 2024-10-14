@@ -1,0 +1,62 @@
+2024-10-14 11:37:52,984 - INFO - Predictieproces gestart door gebruiker: thimo op systeem: Windows 10
+2024-10-14 11:37:52,985 - INFO - Model wordt geladen van models/best_model.h5
+2024-10-14 11:37:55,326 - INFO - Model models/best_model.h5 succesvol geladen.
+2024-10-14 11:37:55,333 - INFO - Model geladen met hash: f0202c70c95da64f400943c625ebcde15c64b5a75d4be39ea16033bf7e448b08
+2024-10-14 11:37:55,333 - INFO - Start voorspellingen in directory: Prediction_Images/todo
+2024-10-14 11:37:55,340 - INFO - Verwerken van afbeelding: Prediction_Images/todo\1223.jpg, Hash: 0bb8fcf9f689073c462ccbca2df481debda95f6a3bc15e75e685bffc7c2bcb25
+2024-10-14 11:37:55,341 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\1223.jpg
+2024-10-14 11:37:57,771 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:57,774 - INFO - Voorspelde klasse voor 1223.jpg: AutomaticWeapon, Confidence: 1.00
+2024-10-14 11:37:57,774 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\1223.jpg
+2024-10-14 11:37:57,793 - INFO - Voorspelde klasse: AutomaticWeapon, Confidence: 1.00, Bounding Boxes: [(117, 117, 3, 3), (109, 117, 5, 3), (101, 117, 5, 3), (93, 117, 5, 3), (85, 117, 5, 3), (77, 117, 5, 3), (69, 117, 5, 3), (61, 117, 5, 3), (53, 116, 5, 4), (117, 109, 3, 4), (109, 109, 5, 4), (101, 109, 5, 4), (93, 109, 5, 4), (85, 109, 5, 4), (77, 109, 5, 4), (69, 109, 5, 4), (61, 108, 5, 5), (7, 108, 1, 4), (31, 103, 1, 1), (7, 103, 1, 4), (117, 101, 3, 4), (109, 101, 5, 4), (101, 101, 5, 4), (93, 101, 5, 4), (85, 101, 5, 4), (77, 100, 5, 5), (117, 93, 3, 4), (109, 93, 5, 4), (101, 93, 5, 4), (93, 93, 5, 4), (84, 92, 6, 5), (117, 85, 3, 4), (109, 85, 5, 4), (101, 85, 5, 4), (93, 85, 5, 4), (47, 85, 1, 3), (117, 77, 3, 4), (109, 77, 5, 4), (101, 77, 5, 4), (93, 76, 5, 5), (117, 69, 3, 4), (109, 69, 5, 4), (15, 69, 3, 4), (100, 68, 6, 5), (117, 61, 3, 4), (21, 61, 5, 4), (15, 61, 3, 4), (109, 60, 5, 5), (21, 53, 5, 4), (15, 53, 3, 4), (116, 52, 4, 5), (78, 52, 2, 4), (29, 45, 5, 4), (21, 45, 5, 4), (15, 45, 3, 4), (37, 37, 5, 4), (29, 37, 5, 4), (21, 37, 5, 4), (15, 37, 3, 4), (53, 29, 6, 4), (45, 29, 5, 4), (37, 29, 5, 4), (29, 29, 5, 4), (21, 29, 5, 4), (15, 29, 3, 4), (53, 21, 5, 4), (45, 21, 5, 4), (37, 21, 5, 4), (29, 21, 5, 4), (21, 21, 5, 4), (15, 21, 3, 4), (14, 17, 113, 111), (61, 12, 5, 5), (53, 12, 5, 5), (45, 12, 5, 5), (37, 12, 5, 5), (29, 12, 5, 5), (21, 12, 5, 5), (15, 12, 3, 5), (12, 6, 95, 92)]
+2024-10-14 11:37:57,799 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\1223.jpg
+2024-10-14 11:37:57,827 - INFO - Verwerken van afbeelding: Prediction_Images/todo\536a328f-899e-4e59-b0b8-c14ab8c49ce6.png, Hash: a3a399e5080212cf14586b34c470d2e544d90dabf5f191cf900c7fd02d34f992
+2024-10-14 11:37:57,827 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\536a328f-899e-4e59-b0b8-c14ab8c49ce6.png
+2024-10-14 11:37:57,867 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:57,867 - INFO - Voorspelde klasse voor 536a328f-899e-4e59-b0b8-c14ab8c49ce6.png: Knife, Confidence: 1.00
+2024-10-14 11:37:57,867 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\536a328f-899e-4e59-b0b8-c14ab8c49ce6.png
+2024-10-14 11:37:57,870 - INFO - Voorspelde klasse: Knife, Confidence: 1.00, Bounding Boxes: [(5, 15, 109, 100)]
+2024-10-14 11:37:57,874 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\536a328f-899e-4e59-b0b8-c14ab8c49ce6.png
+2024-10-14 11:37:57,879 - INFO - Verwerken van afbeelding: Prediction_Images/todo\550x437.jpg, Hash: 383a069f5447632790d5d0a19dd0e3ad9e811312a2d0d5db0db70aa2e649ea08
+2024-10-14 11:37:57,879 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\550x437.jpg
+2024-10-14 11:37:57,916 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:57,916 - INFO - Voorspelde klasse voor 550x437.jpg: AutomaticWeapon, Confidence: 1.00
+2024-10-14 11:37:57,917 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\550x437.jpg
+2024-10-14 11:37:57,920 - INFO - Voorspelde klasse: AutomaticWeapon, Confidence: 1.00, Bounding Boxes: [(69, 117, 5, 3), (61, 117, 4, 3), (53, 117, 4, 3), (45, 117, 4, 3), (37, 117, 4, 3), (29, 117, 5, 3), (21, 117, 5, 3), (15, 117, 2, 3), (77, 116, 5, 4), (69, 109, 5, 4), (61, 109, 4, 4), (53, 109, 5, 4), (45, 109, 4, 4), (37, 109, 4, 4), (29, 109, 5, 4), (21, 109, 5, 4), (15, 109, 3, 4), (61, 101, 5, 4), (53, 101, 4, 4), (45, 101, 4, 4), (37, 101, 5, 4), (29, 101, 5, 4), (21, 101, 5, 4), (15, 101, 3, 4), (37, 93, 5, 4), (29, 93, 5, 4), (21, 93, 5, 4), (15, 93, 3, 4), (53, 92, 5, 5), (45, 92, 5, 5), (29, 85, 5, 4), (21, 85, 5, 4), (15, 85, 3, 4), (37, 84, 5, 5), (117, 77, 3, 4), (21, 77, 5, 4), (15, 77, 3, 4), (29, 76, 5, 5), (117, 69, 3, 4), (109, 69, 4, 4), (15, 69, 3, 4), (21, 68, 5, 5), (117, 61, 3, 4), (109, 61, 4, 4), (101, 61, 4, 4), (15, 60, 3, 5), (50, 56, 1, 1), (117, 53, 3, 4), (109, 53, 4, 4), (101, 53, 4, 4), (93, 53, 5, 4), (117, 45, 3, 4), (109, 45, 4, 4), (101, 45, 4, 4), (93, 45, 5, 4), (85, 45, 4, 4), (77, 45, 5, 5), (117, 37, 3, 4), (109, 37, 4, 4), (101, 37, 4, 4), (93, 37, 5, 4), (85, 37, 4, 4), (77, 37, 4, 4), (69, 37, 4, 4), (117, 29, 3, 4), (109, 29, 4, 4), (101, 29, 4, 4), (93, 29, 4, 4), (85, 29, 4, 4), (77, 29, 5, 4), (69, 29, 4, 4), (61, 29, 4, 4), (15, 24, 1, 2), (117, 21, 3, 4), (109, 21, 4, 4), (101, 21, 4, 4), (93, 21, 4, 4), (85, 21, 4, 4), (77, 21, 4, 4), (69, 21, 4, 4), (61, 21, 4, 4), (53, 21, 4, 4), (117, 12, 3, 5), (109, 12, 4, 5), (101, 12, 4, 5), (93, 12, 4, 5), (85, 12, 4, 5), (77, 12, 4, 5), (69, 12, 4, 5), (61, 12, 5, 5), (53, 12, 5, 5), (45, 12, 5, 5), (36, 12, 6, 6), (13, 9, 111, 115)]
+2024-10-14 11:37:57,924 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\550x437.jpg
+2024-10-14 11:37:57,930 - INFO - Verwerken van afbeelding: Prediction_Images/todo\6eed9c8d-20f7-41a0-9fd2-ab626acf31c9.png, Hash: 45f006baa0ebdc8982cb6448e98d2172501288754efad8f32085f7282483bc52
+2024-10-14 11:37:57,930 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\6eed9c8d-20f7-41a0-9fd2-ab626acf31c9.png
+2024-10-14 11:37:57,967 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:57,968 - INFO - Voorspelde klasse voor 6eed9c8d-20f7-41a0-9fd2-ab626acf31c9.png: Knife, Confidence: 1.00
+2024-10-14 11:37:57,968 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\6eed9c8d-20f7-41a0-9fd2-ab626acf31c9.png
+2024-10-14 11:37:57,969 - INFO - Voorspelde klasse: Knife, Confidence: 1.00, Bounding Boxes: [(5, 51, 123, 23)]
+2024-10-14 11:37:57,972 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\6eed9c8d-20f7-41a0-9fd2-ab626acf31c9.png
+2024-10-14 11:37:57,976 - INFO - Verwerken van afbeelding: Prediction_Images/todo\automatic.png, Hash: bf253d7dd75bacc4f74c30649757c88b13f3b5311595ec03124029ebface9d10
+2024-10-14 11:37:57,977 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\automatic.png
+2024-10-14 11:37:58,052 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:58,052 - INFO - Voorspelde klasse voor automatic.png: AutomaticWeapon, Confidence: 1.00
+2024-10-14 11:37:58,052 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\automatic.png
+2024-10-14 11:37:58,054 - INFO - Voorspelde klasse: AutomaticWeapon, Confidence: 1.00, Bounding Boxes: [(6, 40, 120, 57)]
+2024-10-14 11:37:58,058 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\automatic.png
+2024-10-14 11:37:58,074 - INFO - Verwerken van afbeelding: Prediction_Images/todo\d31f3ca6-2933-44f0-bc51-535c09d1af3d.png, Hash: 773e9a4729af54950cf0b84d884de91aba3f914a7d44f44a55a8b9317f0a5a07
+2024-10-14 11:37:58,074 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\d31f3ca6-2933-44f0-bc51-535c09d1af3d.png
+2024-10-14 11:37:58,121 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:58,122 - INFO - Voorspelde klasse voor d31f3ca6-2933-44f0-bc51-535c09d1af3d.png: Handgun, Confidence: 0.98
+2024-10-14 11:37:58,122 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\d31f3ca6-2933-44f0-bc51-535c09d1af3d.png
+2024-10-14 11:37:58,130 - INFO - Voorspelde klasse: Handgun, Confidence: 0.98, Bounding Boxes: [(6, 5, 122, 121)]
+2024-10-14 11:37:58,135 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\d31f3ca6-2933-44f0-bc51-535c09d1af3d.png
+2024-10-14 11:37:58,144 - INFO - Verwerken van afbeelding: Prediction_Images/todo\handgun.png, Hash: f7bbecc37b5a88f77e77e7348f90332f5b81901d1d809ae9e7eba1ecfebfc13a
+2024-10-14 11:37:58,144 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\handgun.png
+2024-10-14 11:37:58,181 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:58,181 - INFO - Voorspelde klasse voor handgun.png: Handgun, Confidence: 1.00
+2024-10-14 11:37:58,181 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\handgun.png
+2024-10-14 11:37:58,183 - INFO - Voorspelde klasse: Handgun, Confidence: 1.00, Bounding Boxes: [(21, 87, 57, 29), (23, 14, 90, 67)]
+2024-10-14 11:37:58,188 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\handgun.png
+2024-10-14 11:37:58,202 - INFO - Verwerken van afbeelding: Prediction_Images/todo\handgun3.png, Hash: fb05fa103f9a0eac35034ac76c9fc713dabdfc19aeeaaa09c64390d2517cea6c
+2024-10-14 11:37:58,202 - INFO - Bezig met preprocessen van afbeelding: Prediction_Images/todo\handgun3.png
+2024-10-14 11:37:58,246 - INFO - Bezig met postprocessen van masker met drempelwaarde 0.5
+2024-10-14 11:37:58,246 - INFO - Voorspelde klasse voor handgun3.png: Handgun, Confidence: 0.97
+2024-10-14 11:37:58,246 - INFO - Voorspellingen worden getekend voor afbeelding: Prediction_Images/todo\handgun3.png
+2024-10-14 11:37:58,256 - INFO - Voorspelde klasse: Handgun, Confidence: 0.97, Bounding Boxes: [(6, 23, 120, 73)]
+2024-10-14 11:37:58,261 - INFO - Afbeelding met voorspelling opgeslagen naar Prediction_Images/done\handgun3.png
+2024-10-14 11:37:58,261 - INFO - Voorspellingen opgeslagen naar Prediction_Images/done
